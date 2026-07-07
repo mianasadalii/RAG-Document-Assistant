@@ -1,4 +1,4 @@
-# RAG-Document-Assistant# 📄 Smart RAG Document Chatbot
+# RAG-Document-Assistant
 
 Welcome to the **Smart RAG Document Chatbot**! This application allows you to upload any PDF document and instantly chat with it. It uses an AI technique called RAG (Retrieval-Augmented Generation) to read your document, understand its context, and give you precise answers based *only* on the information inside the file.
 
